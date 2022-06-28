@@ -5,9 +5,8 @@
   </a>
 </h1>
 
-<a href="https://www.linkedin.com/in/mesut-sevgin-63a36457/">
-  <h2 align="center">Contact Me With Linkedin</h2>
-</a>
+
+<h2 align="center"><a href="https://www.linkedin.com/in/mesut-sevgin-63a36457/">Contact Me With Linkedin</a></h2>
 
 <h5 align="left">
 - 🔭 I’m currently working on Anadolu Agency, a Full Stack Developer in Ankara, Turkey.
